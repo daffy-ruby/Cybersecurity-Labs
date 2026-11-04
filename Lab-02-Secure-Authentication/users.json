@@ -1,0 +1,10 @@
+{
+    "josphinelouisa@gmail.com": {
+        "password_hash": "$2b$12$uw2CdolccZO.ozto51okt./BDar.f.J4yurPpaWwe3jvFFPYMutAu",
+        "failed_attempts": 0,
+        "locked": false,
+        "integrity_hash": "66b759e2678d5de5a517b01d2c3b7c3452a5fead4816c11949ff92990cb49543",
+        "authenticator_secret": "U7PKW6G3PZN6LYLCAR5MNSDPIRWCJMLQ",
+        "last_used_totp_counter": 59658560
+    }
+}
